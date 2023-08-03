@@ -1,6 +1,6 @@
 # PrayerTracker
 
-PrayerTracker is an application that helps you keep track of your prayers and stay connected with your spiritual journey. Let me explain what you can do with it:
+PrayerTracker is an application that helps you keep track of your prayers and stay connected with your spiritual journey.
 
 ## Tools and technologies that can be highlighted for the "PrayerTracker" (PT) application
 
